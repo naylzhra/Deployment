@@ -1,0 +1,578 @@
+[
+  {
+    "Lebar": 1,
+    "Surface": "beton",
+    "Drainage": true,
+    "HighFloodRisk": true,
+    "Activity": true,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 1.5,
+    "Surface": "beton",
+    "Drainage": true,
+    "HighFloodRisk": true,
+    "Activity": true,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 2,
+    "Surface": "beton",
+    "Drainage": true,
+    "HighFloodRisk": true,
+    "Activity": true,
+    "DesignModule": 2
+  },
+  {
+    "Lebar": 1,
+    "Surface": "aspal",
+    "Drainage": true,
+    "HighFloodRisk": true,
+    "Activity": true,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 1.5,
+    "Surface": "aspal",
+    "Drainage": true,
+    "HighFloodRisk": true,
+    "Activity": true,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 2,
+    "Surface": "aspal",
+    "Drainage": true,
+    "HighFloodRisk": true,
+    "Activity": true,
+    "DesignModule": 2
+  },
+  {
+    "Lebar": 1,
+    "Surface": "tanah",
+    "Drainage": true,
+    "HighFloodRisk": true,
+    "Activity": true,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 1.5,
+    "Surface": "tanah",
+    "Drainage": true,
+    "HighFloodRisk": true,
+    "Activity": true,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 2,
+    "Surface": "tanah",
+    "Drainage": true,
+    "HighFloodRisk": true,
+    "Activity": true,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 1,
+    "Surface": "beton",
+    "Drainage": false,
+    "HighFloodRisk": true,
+    "Activity": true,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 1.5,
+    "Surface": "beton",
+    "Drainage": false,
+    "HighFloodRisk": true,
+    "Activity": true,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 2,
+    "Surface": "beton",
+    "Drainage": false,
+    "HighFloodRisk": true,
+    "Activity": true,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 1,
+    "Surface": "aspal",
+    "Drainage": false,
+    "HighFloodRisk": true,
+    "Activity": true,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 1.5,
+    "Surface": "aspal",
+    "Drainage": false,
+    "HighFloodRisk": true,
+    "Activity": true,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 2,
+    "Surface": "aspal",
+    "Drainage": false,
+    "HighFloodRisk": true,
+    "Activity": true,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 1,
+    "Surface": "tanah",
+    "Drainage": false,
+    "HighFloodRisk": true,
+    "Activity": true,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 1.5,
+    "Surface": "tanah",
+    "Drainage": false,
+    "HighFloodRisk": true,
+    "Activity": true,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 2,
+    "Surface": "tanah",
+    "Drainage": false,
+    "HighFloodRisk": true,
+    "Activity": true,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 1,
+    "Surface": "beton",
+    "Drainage": true,
+    "HighFloodRisk": true,
+    "Activity": true,
+    "DesignModule": 3
+  },
+  {
+    "Lebar": 1.5,
+    "Surface": "beton",
+    "Drainage": true,
+    "HighFloodRisk": true,
+    "Activity": true,
+    "DesignModule": 3
+  },
+  {
+    "Lebar": 2,
+    "Surface": "beton",
+    "Drainage": true,
+    "HighFloodRisk": false,
+    "Activity": true,
+    "DesignModule": 3
+  },
+  {
+    "Lebar": 1,
+    "Surface": "aspal",
+    "Drainage": true,
+    "HighFloodRisk": false,
+    "Activity": true,
+    "DesignModule": 3
+  },
+  {
+    "Lebar": 1.5,
+    "Surface": "aspal",
+    "Drainage": true,
+    "HighFloodRisk": false,
+    "Activity": true,
+    "DesignModule": 3
+  },
+  {
+    "Lebar": 2,
+    "Surface": "aspal",
+    "Drainage": true,
+    "HighFloodRisk": false,
+    "Activity": true,
+    "DesignModule": 3
+  },
+  {
+    "Lebar": 1,
+    "Surface": "tanah",
+    "Drainage": true,
+    "HighFloodRisk": false,
+    "Activity": true,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 1.5,
+    "Surface": "tanah",
+    "Drainage": true,
+    "HighFloodRisk": false,
+    "Activity": true,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 2,
+    "Surface": "tanah",
+    "Drainage": true,
+    "HighFloodRisk": false,
+    "Activity": true,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 1,
+    "Surface": "beton",
+    "Drainage": false,
+    "HighFloodRisk": false,
+    "Activity": true,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 1.5,
+    "Surface": "beton",
+    "Drainage": false,
+    "HighFloodRisk": false,
+    "Activity": true,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 2,
+    "Surface": "beton",
+    "Drainage": false,
+    "HighFloodRisk": false,
+    "Activity": true,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 1,
+    "Surface": "aspal",
+    "Drainage": false,
+    "HighFloodRisk": false,
+    "Activity": true,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 1.5,
+    "Surface": "aspal",
+    "Drainage": false,
+    "HighFloodRisk": false,
+    "Activity": true,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 2,
+    "Surface": "aspal",
+    "Drainage": false,
+    "HighFloodRisk": false,
+    "Activity": true,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 1,
+    "Surface": "tanah",
+    "Drainage": false,
+    "HighFloodRisk": false,
+    "Activity": true,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 1.5,
+    "Surface": "tanah",
+    "Drainage": false,
+    "HighFloodRisk": false,
+    "Activity": true,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 2,
+    "Surface": "tanah",
+    "Drainage": false,
+    "HighFloodRisk": false,
+    "Activity": true,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 1,
+    "Surface": "beton",
+    "Drainage": true,
+    "HighFloodRisk": true,
+    "Activity": false,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 1.5,
+    "Surface": "beton",
+    "Drainage": true,
+    "HighFloodRisk": true,
+    "Activity": false,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 2,
+    "Surface": "beton",
+    "Drainage": true,
+    "HighFloodRisk": true,
+    "Activity": false,
+    "DesignModule": 4
+  },
+  {
+    "Lebar": 1,
+    "Surface": "aspal",
+    "Drainage": true,
+    "HighFloodRisk": true,
+    "Activity": false,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 1.5,
+    "Surface": "aspal",
+    "Drainage": true,
+    "HighFloodRisk": true,
+    "Activity": false,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 2,
+    "Surface": "aspal",
+    "Drainage": true,
+    "HighFloodRisk": true,
+    "Activity": false,
+    "DesignModule": 4
+  },
+  {
+    "Lebar": 1,
+    "Surface": "tanah",
+    "Drainage": true,
+    "HighFloodRisk": true,
+    "Activity": false,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 1.5,
+    "Surface": "tanah",
+    "Drainage": true,
+    "HighFloodRisk": true,
+    "Activity": false,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 2,
+    "Surface": "tanah",
+    "Drainage": true,
+    "HighFloodRisk": true,
+    "Activity": false,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 1,
+    "Surface": "beton",
+    "Drainage": false,
+    "HighFloodRisk": true,
+    "Activity": false,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 1.5,
+    "Surface": "beton",
+    "Drainage": false,
+    "HighFloodRisk": true,
+    "Activity": false,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 2,
+    "Surface": "beton",
+    "Drainage": false,
+    "HighFloodRisk": true,
+    "Activity": false,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 1,
+    "Surface": "aspal",
+    "Drainage": false,
+    "HighFloodRisk": true,
+    "Activity": false,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 1.5,
+    "Surface": "aspal",
+    "Drainage": false,
+    "HighFloodRisk": true,
+    "Activity": false,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 2,
+    "Surface": "aspal",
+    "Drainage": false,
+    "HighFloodRisk": true,
+    "Activity": false,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 1,
+    "Surface": "tanah",
+    "Drainage": false,
+    "HighFloodRisk": true,
+    "Activity": false,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 1.5,
+    "Surface": "tanah",
+    "Drainage": false,
+    "HighFloodRisk": true,
+    "Activity": false,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 2,
+    "Surface": "tanah",
+    "Drainage": false,
+    "HighFloodRisk": true,
+    "Activity": false,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 1,
+    "Surface": "beton",
+    "Drainage": true,
+    "HighFloodRisk": true,
+    "Activity": false,
+    "DesignModule": 3
+  },
+  {
+    "Lebar": 1.5,
+    "Surface": "beton",
+    "Drainage": true,
+    "HighFloodRisk": true,
+    "Activity": false,
+    "DesignModule": 5
+  },
+  {
+    "Lebar": 2,
+    "Surface": "beton",
+    "Drainage": true,
+    "HighFloodRisk": false,
+    "Activity": false,
+    "DesignModule": 5
+  },
+  {
+    "Lebar": 1,
+    "Surface": "aspal",
+    "Drainage": true,
+    "HighFloodRisk": false,
+    "Activity": false,
+    "DesignModule": 3
+  },
+  {
+    "Lebar": 1.5,
+    "Surface": "aspal",
+    "Drainage": true,
+    "HighFloodRisk": false,
+    "Activity": false,
+    "DesignModule": 5
+  },
+  {
+    "Lebar": 2,
+    "Surface": "aspal",
+    "Drainage": true,
+    "HighFloodRisk": false,
+    "Activity": false,
+    "DesignModule": 5
+  },
+  {
+    "Lebar": 1,
+    "Surface": "tanah",
+    "Drainage": true,
+    "HighFloodRisk": false,
+    "Activity": false,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 1.5,
+    "Surface": "tanah",
+    "Drainage": true,
+    "HighFloodRisk": false,
+    "Activity": false,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 2,
+    "Surface": "tanah",
+    "Drainage": true,
+    "HighFloodRisk": false,
+    "Activity": false,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 1,
+    "Surface": "beton",
+    "Drainage": false,
+    "HighFloodRisk": false,
+    "Activity": false,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 1.5,
+    "Surface": "beton",
+    "Drainage": false,
+    "HighFloodRisk": false,
+    "Activity": false,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 2,
+    "Surface": "beton",
+    "Drainage": false,
+    "HighFloodRisk": false,
+    "Activity": false,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 1,
+    "Surface": "aspal",
+    "Drainage": false,
+    "HighFloodRisk": false,
+    "Activity": false,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 1.5,
+    "Surface": "aspal",
+    "Drainage": false,
+    "HighFloodRisk": false,
+    "Activity": false,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 2,
+    "Surface": "aspal",
+    "Drainage": false,
+    "HighFloodRisk": false,
+    "Activity": false,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 1,
+    "Surface": "tanah",
+    "Drainage": false,
+    "HighFloodRisk": false,
+    "Activity": false,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 1.5,
+    "Surface": "tanah",
+    "Drainage": false,
+    "HighFloodRisk": false,
+    "Activity": false,
+    "DesignModule": 1
+  },
+  {
+    "Lebar": 2,
+    "Surface": "tanah",
+    "Drainage": false,
+    "HighFloodRisk": false,
+    "Activity": false,
+    "DesignModule": 1
+  }
+]
